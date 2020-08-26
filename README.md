@@ -1,14 +1,16 @@
 # Welcome to the labs repo!
 
+These instructions assume you have followed the instructions setting up your machine and have created the folder structure outlined in the previous lesson. If not please take the time now to set that up properly then return here.
+
 Make sure you clone this repo locally and it's placed in the labs folder.
 
 You can also use the Go playground to complete your labs or this Github repo,
 whichever you prefer.
 
-Hint: if you're on-the-go you can use the playground on your mobile device to keep
-working on the course!
+**Hint:** _If you're on-the-go you can use the playground on your mobile device to keep
+working on the course!_
 
-The unique playground links will be included with the lessons.
+_The unique playground links will be included with the lessons._
 
 ---
 
