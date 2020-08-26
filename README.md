@@ -15,5 +15,6 @@ _The unique playground links will be included with the lessons._
 ---
 
 For your first assignment do the following:
-• Clone this repo and open it with your text editor
-• Follow the directions for the first lab in `/labs/lab_01/README.md`
+
+- Clone this repo and open it with your text editor
+- Follow the directions for the first lab in `/labs/lab_01/README.md`
